@@ -1,1 +1,1 @@
-aprint("hi")
+waprint("hi")
